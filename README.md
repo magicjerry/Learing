@@ -1,1 +1,1 @@
-# Learing-PyQt5
+# Learing
